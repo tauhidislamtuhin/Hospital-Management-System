@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "department_name": "Cardiology",
+            "doctor_name": "Dr. Smith"
+        },
+        {
+            "department_name": "Orthopedics",
+            "doctor_name": "Dr. Johnson"
+        },
+        {
+            "department_name": "Pediatrics",
+            "doctor_name": "Dr. Davis"
+        },
+        {
+            "department_name": "Dermatology",
+            "doctor_name": "Dr. Anderson"
+        },
+        {
+            "department_name": "Neurology",
+            "doctor_name": "Dr. White"
+        },
+        {
+            "department_name": "Ophthalmology",
+            "doctor_name": "Dr. Martinez"
+        },
+        {
+            "department_name": "Gynecology",
+            "doctor_name": "Dr. Taylor"
+        },
+        {
+            "department_name": "Endocrinology",
+            "doctor_name": "Dr. Harris"
+        },
+        {
+            "department_name": "Urology",
+            "doctor_name": "Dr. Wilson"
+        },
+        {
+            "department_name": "ENT",
+            "doctor_name": "Dr. Walker"
+        },
+        {
+            "department_name": "Oncology",
+            "doctor_name": "Dr. Lewis"
+        },
+        {
+            "department_name": "Psychiatry",
+            "doctor_name": "Dr. Clark"
+        },
+        {
+            "department_name": "Rheumatology",
+            "doctor_name": "Dr. Turner"
+        },
+        {
+            "department_name": "Pulmonology",
+            "doctor_name": "Dr. Mitchell"
+        },
+        {
+            "department_name": "Nephrology",
+            "doctor_name": "Dr. Hall"
+        },
+        {
+            "department_name": "Gastroenterology",
+            "doctor_name": "Dr. Brown"
+        },
+        {
+            "department_name": "Hematology",
+            "doctor_name": "Dr. Foster"
+        },
+        {
+            "department_name": "Dentistry",
+            "doctor_name": "Dr. Reed"
+        },
+        {
+            "department_name": "Dermatology",
+            "doctor_name": "Dr. Perez"
+        },
+        {
+            "department_name": "Neurology",
+            "doctor_name": "Dr. Garcia"
+        }
+    ]
+}

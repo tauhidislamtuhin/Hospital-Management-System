@@ -1,0 +1,430 @@
+/*
+ * This file contains styling for the Main view.
+ */
+
+/*
+ * Generates a set of style rules for the "navigation" tab UI.
+ */
+@include extjs-tab-panel-ui($ui: 'navigation',
+    $ui-tab-background-color: transparent,
+    $ui-tab-background-color-over: green,
+    // $ui-tab-background-color-active: #303030,
+    $ui-tab-background-gradient: 'none',
+    $ui-tab-background-gradient-over: 'none',
+    $ui-tab-background-gradient-active: 'none',
+    // $ui-tab-color: #acacac,
+    // $ui-tab-color-over: #c4c4c4,
+    // $ui-tab-color-active: red,
+    // $ui-tab-glyph-color: #acacac,
+    // $ui-tab-glyph-color-over: #c4c4c4,
+    // $ui-tab-glyph-color-active: #fff,
+    $ui-tab-glyph-opacity: 1,
+    $ui-tab-border-radius: 0,
+    $ui-tab-border-width: 0,
+    $ui-tab-inner-border-width: 0,
+    $ui-tab-padding: 14px,
+    $ui-tab-margin: 0,
+    $ui-tab-font-size: 12px,
+    $ui-tab-font-size-over: 12px,
+    $ui-tab-font-size-active: 12px,
+    $ui-tab-line-height: 15px,
+    $ui-tab-font-weight: bold,
+    $ui-tab-font-weight-over: bold,
+    $ui-tab-font-weight-active: bold,
+    $ui-tab-icon-width: 24px,
+    $ui-tab-icon-height: 24px,
+    $ui-tab-icon-spacing: 5px,
+    $ui-bar-background-color: #404040,
+    $ui-bar-background-gradient: 'none',
+    $ui-bar-padding: 0,
+    $ui-strip-height: 0);
+
+/*
+ * Generates a set of style rules for the "navigation" panel UI.
+ */
+@include extjs-panel-ui($ui: 'navigation',
+    $ui-header-color: #fff,
+    $ui-header-glyph-color: #fff,
+    $ui-header-glyph-opacity: 1,
+    $ui-header-font-size: 20px,
+    $ui-header-line-height: 24px,
+    $ui-header-font-weight: bold,
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 15px,
+    $ui-header-background-color: $base-color,
+    $ui-header-padding: 0,
+    $ui-header-text-margin: 36px,
+    $ui-header-noborder-adjust: false);
+
+.x-title-icon-navigation {
+    font-family: 'Font Awesome 5 Free';
+    color: #fff;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-tab-icon-el-navigation {
+    font-family: 'Font Awesome 5 Free';
+    color: #acacac;
+
+    .x-tab-over & {
+        color: #c4c4c4;
+    }
+
+    .x-tab-active & {
+        color: #fff;
+    }
+}
+
+// desktop panel
+.x-panel-header-title-navigation>.x-title-text-navigation:after {
+    top: 30px;
+    right: -24px;
+}
+
+#DV-bodyWrap {
+    background-image: url(/resources/images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    #DV-body {
+        background: transparent;
+    }
+}
+
+// bottom-bar 
+#bottom-bar {
+    background: linear-gradient(113.3deg, rgb(134, 209, 228) -1.8%, rgb(60, 80, 115) 86.4%);
+    opacity: 0.7;
+}
+
+// ============================
+#start-panel_header {
+    background-color: transparent;
+}
+
+#start-panel_header-title {
+    background-image: linear-gradient(to right, #000428 0%, #004e92 51%, #000428 100%);
+    text-align: center;
+    //text-transform: uppercase;
+    // background-size: 200% auto;
+    // color: white;
+    // box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    // display: block;
+}
+
+#start-panel_header {
+    background-color: transparent;
+}
+
+#start-panel_header-title:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+#logout {
+    background-image: linear-gradient(to right, #000428 0%, #004e92 51%, #000428 100%);
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    margin-top: 100px;
+}
+
+#logout:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+// for start button text and icon color
+#startBtn {
+    background-image: linear-gradient(to right, #000428 0%, #004e92 51%, #000428 100%);
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#startBtn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+#startBtn-btnIconEl {
+    color: green;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+#startBtn-btnInnerEl {
+    color: white;
+}
+
+#start-panel-bodyWrap {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+
+    #start-panel-body {
+        background: transparent;
+    }
+}
+
+#left-bar {
+    background: transparent;
+}
+
+
+#LV-bodyWrap {
+    background-image: url(/resources/images/log5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    #LV-body {
+        background: transparent;
+    }
+}
+
+#RVL-bodyWrap {
+    background-image: url(/resources/images/log5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    #RVL-body {
+        background: transparent;
+    }
+}
+
+#reg-body {
+    background: transparent;
+    color: white;
+    font-size: 14px;
+}
+
+// #toolbar-1016 {
+//     background-color: midnightblue;
+// }
+
+// #tabbar-1015 {
+//     background-color: midnightblue;
+// }
+
+// #tab-1016-btnInnerEl {
+//     color: midnightblue;
+// }
+
+.x-tab-bar-default {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+}
+
+#paitent-win_header {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+    border-image: linear-gradient(to left bottom, #120239, #094688);
+
+
+    #paitent-win_header-innerCt {
+        background-color: transparent;
+        border-color: none;
+    }
+}
+
+#edit-win_header {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+    border-image: linear-gradient(to left bottom, #120239, #094688);
+
+    #edit-win_header-innerCt {
+        background-color: transparent;
+        border-color: none;
+    }
+}
+
+// .x-window-header-default {
+//     font-size: 16px;
+//     border-color: #5fa2dd;
+//     /* background-color: #5fa2dd; */
+// }
+
+.x-window-header-default .x-tool-img {
+    background-color: transparent;
+}
+
+
+#tabBtn {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+}
+
+#tab-1016-btnInnerEl {
+    color: #18122B;
+}
+
+.x-box-scroller-tab-bar-default {
+    background-color: transparent;
+}
+
+
+.x-tab-default-top {
+    padding: 8px 22px 8px 20px;
+}
+
+#doctor-win_header {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+    border-image: linear-gradient(to left bottom, #120239, #094688);
+
+    #doctor-win_header-innerCt {
+        background-color: transparent;
+        border-color: none;
+    }
+}
+
+#tabBtnD {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+}
+
+
+#button-1017 {
+    color: #6c5b34;
+}
+
+#red-btnIconEl {
+    color: red;
+}
+
+#green-btnIconEl {
+    color: green;
+}
+
+#container-1056-innerCt {
+    left: 150px;
+    top: 10px;
+}
+
+// change
+#patient_documents-inputEl {
+    width: 380px;
+}
+
+
+#button-btnIconEl {
+    color: red;
+}
+
+.x-window-header-default-top {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+}
+
+.x-window-header-default {
+    border-color: linear-gradient(to left bottom, #120239, #094688);
+    background-color: transparent;
+    border-color: none;
+}
+
+#RN-triggerWrap {
+    border-color: transparent;
+    border-bottom: 1px solid black;
+}
+
+#RA-triggerWrap {
+    border-color: transparent;
+    border-bottom: 1px solid black;
+}
+
+#RD-triggerWrap {
+    border-color: transparent;
+    border-bottom: 1px solid black;
+}
+
+#TAL-triggerWrap {
+    border-color: transparent;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#TAR-triggerWrap {
+    border-color: transparent;
+    border-top: 1px solid black;
+    // border-right: 1px solid black;
+}
+
+// *********** for default button *******************
+.x-btn-default-small {
+    background-image: linear-gradient(to right, #000428 0%, #004e92 51%, #000428 100%);
+    text-align: center;
+    color: white;
+   // text-transform: uppercase;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: transparent;
+}
+
+// *************************************
+//************************** tab design *****************************
+.x-btn-default-toolbar-small {
+    background-image: linear-gradient(to right, #ECE9E6 0%, #FFFFFF 51%, #ECE9E6 100%);
+    margin: 10px;
+    text-align: center;
+    // text-transform: uppercase;
+    background-size: 200% auto;
+    border-radius: 5px;
+    display: block;
+
+
+    &:hover {
+        background-position: right center;
+        /* change the direction of the change here */
+        color: #fff;
+        text-decoration: none;
+    }
+
+}
+
+.x-tab.x-tab-active.x-tab-default {
+    background-image: linear-gradient(to right, #ECE9E6 0%, #FFFFFF 51%, #ECE9E6 100%);
+    margin: 10px;
+    text-align: center;
+    // text-transform: uppercase;
+    background-size: 200% auto;
+    border-radius: 5px;
+    display: block;
+}
+
+.x-tab-bar-navigation {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+
+}
+#tabBtnForRecep {
+    background-image: linear-gradient(to left bottom, #120239, #094688);
+
+}
+// for resiptionis view panel
+#RV-bodyWrap {
+    background-image: url(/resources/images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    #RV-body {
+        background: transparent;
+    }
+}
+// for doctor view panel
+#doctorView-bodyWrap{
+    background-image: url(/resources/images/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    #doctorView-body {
+        background: transparent;
+    }
+}

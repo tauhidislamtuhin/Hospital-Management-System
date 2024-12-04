@@ -1,0 +1,222 @@
+[
+        {
+            "admission_id": "ADM1001",
+            "id_serial_no": 100001,
+            "tx_patient_name": "John Doe",
+            "patient_age": 35,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Cardiology",
+            "tx_doctor_name": "Dr. Smith",
+            "dt_visit_date": "2023-09-30",
+            "doctor_fee_bdt": 500.00
+        },
+        {
+            "admission_id": "ADM1002",
+            "id_serial_no": 100002,
+            "tx_patient_name": "Jane Smith",
+            "patient_age": 28,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Neurology",
+            "tx_doctor_name": "Dr. Johnson",
+            "dt_visit_date": "2023-09-29",
+            "doctor_fee_bdt": 600.00
+        },
+        {
+            "admission_id": "ADM1003",
+            "id_serial_no": 100003,
+            "tx_patient_name": "Michael Johnson",
+            "patient_age": 42,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Orthopedics",
+            "tx_doctor_name": "Dr. Williams",
+            "dt_visit_date": "2023-09-28",
+            "doctor_fee_bdt": 550.00
+        },
+        {
+            "admission_id": "ADM1004",
+            "id_serial_no": 100004,
+            "tx_patient_name": "Emily Davis",
+            "patient_age": 20,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "ENT",
+            "tx_doctor_name": "Dr. Davis",
+            "dt_visit_date": "2023-09-27",
+            "doctor_fee_bdt": 450.00
+        },
+        {
+            "admission_id": "ADM1005",
+            "id_serial_no": 100005,
+            "tx_patient_name": "David Wilson",
+            "patient_age": 55,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Dermatology",
+            "tx_doctor_name": "Dr. Wilson",
+            "dt_visit_date": "2023-09-26",
+            "doctor_fee_bdt": 600.00
+        },
+        {
+            "admission_id": "ADM1006",
+            "id_serial_no": 100006,
+            "tx_patient_name": "Sophia Lee",
+            "patient_age": 30,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Ophthalmology",
+            "tx_doctor_name": "Dr. Lee",
+            "dt_visit_date": "2023-09-25",
+            "doctor_fee_bdt": 400.00
+        },
+        {
+            "admission_id": "ADM1007",
+            "id_serial_no": 100007,
+            "tx_patient_name": "Daniel Anderson",
+            "patient_age": 45,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Urology",
+            "tx_doctor_name": "Dr. Anderson",
+            "dt_visit_date": "2023-09-24",
+            "doctor_fee_bdt": 650.00
+        },
+        {
+            "admission_id": "ADM1008",
+            "id_serial_no": 100008,
+            "tx_patient_name": "Olivia White",
+            "patient_age": 22,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Gastroenterology",
+            "tx_doctor_name": "Dr. White",
+            "dt_visit_date": "2023-09-23",
+            "doctor_fee_bdt": 500.00
+        },
+        {
+            "admission_id": "ADM1009",
+            "id_serial_no": 100009,
+            "tx_patient_name": "William Moore",
+            "patient_age": 38,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Pulmonology",
+            "tx_doctor_name": "Dr. Moore",
+            "dt_visit_date": "2023-09-22",
+            "doctor_fee_bdt": 550.00
+        },
+        {
+            "admission_id": "ADM1010",
+            "id_serial_no": 100010,
+            "tx_patient_name": "Ava Garcia",
+            "patient_age": 27,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Rheumatology",
+            "tx_doctor_name": "Dr. Garcia",
+            "dt_visit_date": "2023-09-21",
+            "doctor_fee_bdt": 450.00
+        },
+        {
+            "admission_id": "ADM1011",
+            "id_serial_no": 100011,
+            "tx_patient_name": "James Brown",
+            "patient_age": 50,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Endocrinology",
+            "tx_doctor_name": "Dr. Brown",
+            "dt_visit_date": "2023-09-20",
+            "doctor_fee_bdt": 600.00
+        },
+        {
+            "admission_id": "ADM1012",
+            "id_serial_no": 100012,
+            "tx_patient_name": "Mia Martinez",
+            "patient_age": 33,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Pediatrics",
+            "tx_doctor_name": "Dr. Martinez",
+            "dt_visit_date": "2023-09-19",
+            "doctor_fee_bdt": 450.00
+        },
+        {
+            "admission_id": "ADM1013",
+            "id_serial_no": 100013,
+            "tx_patient_name": "Liam Adams",
+            "patient_age": 40,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Nephrology",
+            "tx_doctor_name": "Dr. Adams",
+            "dt_visit_date": "2023-09-18",
+            "doctor_fee_bdt": 550.00
+        },
+        {
+            "admission_id": "ADM1014",
+            "id_serial_no": 100014,
+            "tx_patient_name": "Isabella Harris",
+            "patient_age": 25,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Dentistry",
+            "tx_doctor_name": "Dr. Harris",
+            "dt_visit_date": "2023-09-17",
+            "doctor_fee_bdt": 400.00
+        },
+        {
+            "admission_id": "ADM1015",
+            "id_serial_no": 100015,
+            "tx_patient_name": "Benjamin Clark",
+            "patient_age": 48,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Psychiatry",
+            "tx_doctor_name": "Dr. Clark",
+            "dt_visit_date": "2023-09-16",
+            "doctor_fee_bdt": 650.00
+        },
+        {
+            "admission_id": "ADM1016",
+            "id_serial_no": 100016,
+            "tx_patient_name": "Emma Turner",
+            "patient_age": 29,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Oncology",
+            "tx_doctor_name": "Dr. Turner",
+            "dt_visit_date": "2023-09-15",
+            "doctor_fee_bdt": 550.00
+        },
+        {
+            "admission_id": "ADM1017",
+            "id_serial_no": 100017,
+            "tx_patient_name": "Lucas Parker",
+            "patient_age": 36,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Gynecology",
+            "tx_doctor_name": "Dr. Parker",
+            "dt_visit_date": "2023-09-14",
+            "doctor_fee_bdt": 600.00
+        },
+        {
+            "admission_id": "ADM1018",
+            "id_serial_no": 100018,
+            "tx_patient_name": "Chloe King",
+            "patient_age": 24,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Hematology",
+            "tx_doctor_name": "Dr. King",
+            "dt_visit_date": "2023-09-13",
+            "doctor_fee_bdt": 450.00
+        },
+        {
+            "admission_id": "ADM1019",
+            "id_serial_no": 100019,
+            "tx_patient_name": "Ethan Scott",
+            "patient_age": 37,
+            "tx_patient_gender": "Male",
+            "tx_department_name": "Dermatology",
+            "tx_doctor_name": "Dr. Scott",
+            "dt_visit_date": "2023-09-12",
+            "doctor_fee_bdt": 500.00
+        },
+        {
+            "admission_id": "ADM1020",
+            "id_serial_no": 100020,
+            "tx_patient_name": "Avery Nelson",
+            "patient_age": 31,
+            "tx_patient_gender": "Female",
+            "tx_department_name": "Orthopedics",
+            "tx_doctor_name": "Dr. Nelson",
+            "dt_visit_date": "2023-09-11",
+            "doctor_fee_bdt": 550.00
+        }
+    ]

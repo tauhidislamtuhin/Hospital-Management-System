@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "specialty": "Dental Surgery",
+            "earnings": 50000,
+            "expenses": 20000,
+            "profitPercentage": 60
+        },
+        {
+            "specialty": "O&G - Obstetrics/Gynecology",
+            "earnings": 75000,
+            "expenses": 30000,
+            "profitPercentage": 60
+        },
+        {
+            "specialty": "Medicine",
+            "earnings": 60000,
+            "expenses": 25000,
+            "profitPercentage": 58.33
+        },
+        {
+            "specialty": "Lab Medicine",
+            "earnings": 30000,
+            "expenses": 12000,
+            "profitPercentage": 60
+        },
+        {
+            "specialty": "Pediatrics",
+            "earnings": 40000,
+            "expenses": 18000,
+            "profitPercentage": 55
+        },
+        {
+            "specialty": "Orthopedics",
+            "earnings": 55000,
+            "expenses": 22000,
+            "profitPercentage": 40
+        },
+        {
+            "specialty": "Radiology",
+            "earnings": 48000,
+            "expenses": 18000,
+            "profitPercentage": 62.5
+        },
+        {
+            "specialty": "Cardiology",
+            "earnings": 70000,
+            "expenses": 27000,
+            "profitPercentage": 61.43
+        },
+        {
+            "specialty": "Neurology",
+            "earnings": 52000,
+            "expenses": 21000,
+            "profitPercentage": 60.77
+        },
+        {
+            "specialty": "Surgery",
+            "earnings": 68000,
+            "expenses": 25000,
+            "profitPercentage": 63.24
+        },
+        {
+            "specialty": "ENT - Otolaryngology",
+            "earnings": 44000,
+            "expenses": 17000,
+            "profitPercentage": 61.36
+        }
+    ]
+}

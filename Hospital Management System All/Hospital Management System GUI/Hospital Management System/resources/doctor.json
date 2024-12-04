@@ -1,0 +1,225 @@
+{
+    "item": [
+        {
+            "doctor_id": 1,
+            "department_id": 101,
+            "tx_doctor_name": "Dr. John Smith",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Monday 9:00 AM - 5:00 PM",
+            "tx_doctor_phone_no": "123-456-7890",
+            "doctor_photo": "resources/doctor/1.jpg",
+            "doctor_fee_bdt": 500
+        },
+        {
+            "doctor_id": 2,
+            "department_id": 102,
+            "tx_doctor_name": "Dr. Jane Doe",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "PhD",
+            "tx_doctor_schedule": "Tuesday 10:00 AM - 6:00 PM",
+            "tx_doctor_phone_no": "987-654-3210",
+            "doctor_photo": "resources/doctor/2.jpg",
+            "doctor_fee_bdt": 600
+        },
+        {
+            "doctor_id": 3,
+            "department_id": 101,
+            "tx_doctor_name": "Dr. Michael Johnson",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Wednesday 8:00 AM - 4:00 PM",
+            "tx_doctor_phone_no": "555-123-4567",
+            "doctor_photo": "resources/doctor/3.jpg",
+            "doctor_fee_bdt": 550
+        },
+        {
+            "doctor_id": 4,
+            "department_id": 103,
+            "tx_doctor_name": "Dr. Sarah Brown",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "DDS",
+            "tx_doctor_schedule": "Thursday 9:30 AM - 5:30 PM",
+            "tx_doctor_phone_no": "777-888-9999",
+            "doctor_photo": "resources/doctor/4.jpg",
+            "doctor_fee_bdt": 700
+        },
+        {
+            "doctor_id": 5,
+            "department_id": 102,
+            "tx_doctor_name": "Dr. Robert Lee",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "PhD",
+            "tx_doctor_schedule": "Friday 10:30 AM - 6:30 PM",
+            "tx_doctor_phone_no": "888-777-6666",
+            "doctor_photo": "resources/doctor/5.jpg",
+            "doctor_fee_bdt": 600
+        },
+        {
+            "doctor_id": 6,
+            "department_id": 104,
+            "tx_doctor_name": "Dr. Emily White",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Saturday 9:00 AM - 5:00 PM",
+            "tx_doctor_phone_no": "444-555-6666",
+            "doctor_photo": "resources/doctor/6.jpg",
+            "doctor_fee_bdt": 650
+        },
+        {
+            "doctor_id": 7,
+            "department_id": 103,
+            "tx_doctor_name": "Dr. James Taylor",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "DDS",
+            "tx_doctor_schedule": "Monday 8:30 AM - 4:30 PM",
+            "tx_doctor_phone_no": "123-789-4560",
+            "doctor_photo": "resources/doctor/7.jpg",
+            "doctor_fee_bdt": 720
+        },
+        {
+            "doctor_id": 8,
+            "department_id": 101,
+            "tx_doctor_name": "Dr. Olivia Clark",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Tuesday 10:00 AM - 6:00 PM",
+            "tx_doctor_phone_no": "777-888-9999",
+            "doctor_photo": "resources/doctor/8.jpg",
+            "doctor_fee_bdt": 550
+        },
+        {
+            "doctor_id": 9,
+            "department_id": 102,
+            "tx_doctor_name": "Dr. William Moore",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "PhD",
+            "tx_doctor_schedule": "Wednesday 9:30 AM - 5:30 PM",
+            "tx_doctor_phone_no": "555-666-7777",
+            "doctor_photo": "resources/doctor/9.jpg",
+            "doctor_fee_bdt": 610
+        },
+        {
+            "doctor_id": 10,
+            "department_id": 103,
+            "tx_doctor_name": "Dr. Sophia Martin",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "DDS",
+            "tx_doctor_schedule": "Thursday 9:00 AM - 5:00 PM",
+            "tx_doctor_phone_no": "999-888-7777",
+            "doctor_photo": "resources/doctor/10.jpg",
+            "doctor_fee_bdt": 690
+        },
+        {
+            "doctor_id": 11,
+            "department_id": 101,
+            "tx_doctor_name": "Dr. Ethan Johnson",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Friday 8:00 AM - 4:00 PM",
+            "tx_doctor_phone_no": "123-456-7890",
+            "doctor_photo": "resources/doctor/11.jpg",
+            "doctor_fee_bdt": 530
+        },
+        {
+            "doctor_id": 12,
+            "department_id": 104,
+            "tx_doctor_name": "Dr. Mia Anderson",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Saturday 10:00 AM - 6:00 PM",
+            "tx_doctor_phone_no": "444-555-6666",
+            "doctor_photo": "resources/doctor/12.jpg",
+            "doctor_fee_bdt": 620
+        },
+        {
+            "doctor_id": 13,
+            "department_id": 101,
+            "tx_doctor_name": "Dr. Liam Harris",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Sunday 9:30 AM - 5:30 PM",
+            "tx_doctor_phone_no": "777-888-9999",
+            "doctor_photo": "resources/doctor/13.jpg",
+            "doctor_fee_bdt": 540
+        },
+        {
+            "doctor_id": 14,
+            "department_id": 102,
+            "tx_doctor_name": "Dr. Ava Lewis",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "PhD",
+            "tx_doctor_schedule": "Monday 8:30 AM - 4:30 PM",
+            "tx_doctor_phone_no": "123-789-4560",
+            "doctor_photo": "resources/doctor/14.jpg",
+            "doctor_fee_bdt": 610
+        },
+        {
+            "doctor_id": 15,
+            "department_id": 103,
+            "tx_doctor_name": "Dr. Noah Turner",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "DDS",
+            "tx_doctor_schedule": "Tuesday 9:00 AM - 5:00 PM",
+            "tx_doctor_phone_no": "555-666-7777",
+            "doctor_photo": "resources/doctor/15.jpg",
+            "doctor_fee_bdt": 680
+        },
+        {
+            "doctor_id": 16,
+            "department_id": 104,
+            "tx_doctor_name": "Dr. Harper Scott",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "PhD",
+            "tx_doctor_schedule": "Wednesday 10:30 AM - 6:30 PM",
+            "tx_doctor_phone_no": "999-888-7777",
+            "doctor_photo": "resources/doctor/16.jpg",
+            "doctor_fee_bdt": 630
+        },
+        {
+            "doctor_id": 17,
+            "department_id": 101,
+            "tx_doctor_name": "Dr. Ethan Wilson",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Thursday 9:30 AM - 5:30 PM",
+            "tx_doctor_phone_no": "123-456-7890",
+            "doctor_photo": "resources/doctor/17.jpg",
+            "doctor_fee_bdt": 550
+        },
+        {
+            "doctor_id": 18,
+            "department_id": 102,
+            "tx_doctor_name": "Dr. Mia Garcia",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "MD",
+            "tx_doctor_schedule": "Friday 8:00 AM - 4:00 PM",
+            "tx_doctor_phone_no": "444-555-6666",
+            "doctor_photo": "resources/doctor/18.jpg",
+            "doctor_fee_bdt": 600
+        },
+        {
+            "doctor_id": 19,
+            "department_id": 103,
+            "tx_doctor_name": "Dr. Liam Smith",
+            "tx_doctor_gender": "Male",
+            "tx_doctor_degree": "DDS",
+            "tx_doctor_schedule": "Saturday 10:00 AM - 6:00 PM",
+            "tx_doctor_phone_no": "777-888-9999",
+            "doctor_photo": "resources/doctor/19.jpg",
+            "doctor_fee_bdt": 700
+        },
+        {
+            "doctor_id": 20,
+            "department_id": 104,
+            "tx_doctor_name": "Dr. Ava Johnson",
+            "tx_doctor_gender": "Female",
+            "tx_doctor_degree": "PhD",
+            "tx_doctor_schedule": "Sunday 9:00 AM - 5:00 PM",
+            "tx_doctor_phone_no": "555-123-4567",
+            "doctor_photo": "resources/doctor/20.jpg",
+            "doctor_fee_bdt": 650
+        }
+    ],
+    "total": 100
+}
