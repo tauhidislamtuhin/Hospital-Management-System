@@ -1,3 +1,3 @@
-**Fonted Use:** EXT JS
-**Backed:** Java Spring Boot
+**Fonted Use:** EXT JS<br />
+**Backed:** Java Spring Boot<br />
 **Database:** MSSql
